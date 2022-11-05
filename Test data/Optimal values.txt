@@ -1,0 +1,3 @@
+Humidity: 50-70%
+Air Temp: 10-20
+pH: 6.5-8
